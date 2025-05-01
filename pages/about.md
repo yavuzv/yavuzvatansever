@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About
+title: Hakkinda
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Yavuz Vatansever, yaratıcı konseptleri hayata geçirme konusunda tutkulu bir İllüstratör ve Sanat Yönetmenidir. Mimar Sinan Güzel Sanatlar Üniversitesi mezunu olan Yavuz, benzersiz bir sanatsal vizyon ve tasarım konusundaki derin anlayışını, reklamcılık ve yaratıcı endüstrilerde yer aldığı birçok projede ortaya koymuştur.
+
+İllüstrasyon alanındaki güçlü geçmişi ve görsel hikaye anlatımına olan bağlılığı sayesinde, Yavuz; markalaşma, pazarlama kampanyaları, dijital medya ve multimedya tasarımı gibi birçok farklı alanda çalışmalar yapmıştır. İşleri, cesur yaratıcılığı, detaylara verdiği önem ve bir markanın kimliğini en iyi şekilde yansıtma yeteneğiyle tanınmaktadır.
+
+Çeşitli ekiplerle ve müşterilerle işbirliği yaparak, Yavuz görsel tasarım sınırlarını zorlamaya, yeni teknikler ve yaklaşımlar denemeye devam etmekte ve reklamcılık ile tasarım dünyasında hızla değişen trendlere ayak uydurmaktadır.
