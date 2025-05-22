@@ -2,8 +2,8 @@
 layout: post
 title: "Istanbul'un Tarihi"
 author: "Yavuz S. V."
-categories: sample
-tags: [sample]
+categories: resources
+tags: [documentation]
 image: istanbul.jpg
 ---
 # İstanbul'un Tarihi: Binlerce Yılın Şehri

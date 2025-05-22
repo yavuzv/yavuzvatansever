@@ -37,3 +37,4 @@ Sanat galerileri ve sokak sanatı, İstanbul’un değişken yüzünü temsil ed
 ## İletişim
 
 Yavuz Vatansever ile projeleriniz ve işbirlikleri hakkında iletişime geçmek için e-posta yoluyla ulaşabilirsiniz. Her türlü soru, teklif ve işbirliği talepleriniz için [yavuzselimvatansever@gmail.com](mailto:yavuzselimvatansever@gmail.com) adresine mesaj gönderebilirsiniz.
+
