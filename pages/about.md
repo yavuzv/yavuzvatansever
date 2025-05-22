@@ -11,7 +11,7 @@ Yavuz Vatansever, yaratıcı konseptleri hayata geçirme konusunda tutkulu bir �
 Çeşitli ekiplerle ve müşterilerle işbirliği yaparak, Yavuz görsel tasarım sınırlarını zorlamaya, yeni teknikler ve yaklaşımlar denemeye devam etmekte ve reklamcılık ile tasarım dünyasında hızla değişen trendlere ayak uydurmaktadır.
 
 
-![Killer]({{ site.baseurl }}/assets/img/portfolio/killer.jpeg)
+<!-- ![Killer]({{ site.baseurl }}/assets/img/portfolio/killer.jpeg)
 ![Killer2]({{ site.baseurl }}/assets/img/portfolio/killer2.jpeg)
 ![Killer3]({{ site.baseurl }}/assets/img/portfolio/killer3.jpeg)
 ![Kopenhag]({{ site.baseurl }}/assets/img/portfolio/kopenhag.jpeg)
@@ -37,7 +37,7 @@ Yavuz Vatansever, yaratıcı konseptleri hayata geçirme konusunda tutkulu bir �
 <video width="640" height="360" controls>
   <source src="assets/img/portfolio/vid4.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 
